@@ -1,7 +1,7 @@
 # VITAI
 The perfect nutritionist + Personal assistant See code https://www.icloud.com/shortcuts/fccfedfb2e444df2bf48581ae321cfd8
 
-VITAI has been designed intentionally to exist in the background without a traditioanl UI element. It seemlessly does it work in the background without interrupting your workflow and nudges you to live a healthy lifestyle by tailored meals, meditaions and workout plans.
+VITAI has been designed intentionally to exist in the background without a traditional UI element. It seemlessly does it work in the background without interrupting your workflow and nudges you to live a healthy lifestyle by tailored meals, meditaions and workout plans.
 
 Inspiration: US obesity rates have tripled over the last 60 years, As of 2023, 43% of Americans are obese -this number is up 13% from the year 2000. 1 in 6 adults, or, approximately 50 million people in the US are experiencing mental health issues and 55% of them do not receive any mental health treatment. ( Source: mhanational). These stats were appalling, and, understandably, are going to increase exponentially. Several studies have found that Depression and Anxiety can both be associated with overeating, poor food choices, a more sedentary lifestyle and very little physical activity. Recognizing that health & wellness is a 1.2 trillion TAM in the US alone, a question arose, why are obesity rates and mental health issues at an all time high? Lack of awareness, lack of resources, lack of access, lack of understanding of what a healthy lifestyle could look like, lack of instructions on how to change a lifestyle into a healthier one was a significant contributor!
 
